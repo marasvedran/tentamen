@@ -1,0 +1,17 @@
+li{
+  border: solid 1px black;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+ul{
+  list-style-type: none;
+}
+
+img{
+  display: flex;
+}
+
+button{
+  margin: 20px;
+}
